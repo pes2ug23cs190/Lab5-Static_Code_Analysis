@@ -1,0 +1,18 @@
+************* Module inventory_system
+inventory_system.py:16:0: C0103: Function name "addItem" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:23:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:30:16: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+inventory_system.py:33:0: C0103: Function name "removeItem" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:43:11: W0718: Catching too general exception Exception (broad-exception-caught)
+inventory_system.py:42:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:45:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:48:0: C0103: Function name "getQty" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:53:0: C0103: Function name "loadData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:57:8: W0603: Using the global statement (global-statement)
+inventory_system.py:62:0: C0103: Function name "saveData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:70:0: C0103: Function name "printData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:77:0: C0103: Function name "checkLowItems" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.59/10 (previous run:4.40/10, +2.24)
+
